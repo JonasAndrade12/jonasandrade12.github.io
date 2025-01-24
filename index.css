@@ -1,0 +1,100 @@
+.main {
+  margin: auto;
+  width: 90%;
+  min-width: 300px;
+  max-width: 700px;
+}
+
+hr {
+  height: 1px;
+  background-color: black;
+  border: none;
+}
+
+.vspace-16 {
+  height: 0px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.vspace-bar-16 {
+  height: 1px;
+  opacity: 25%;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.work-experience-job-header h3 {
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.work-experience-job-header span {
+  font-weight: 300;
+}
+
+.work-experience-job-body p {
+  margin: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  align-self: center;
+  max-width: 90%;
+}
+
+.work-experience-job-body h4 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+body {
+  font-family: "Fira Sans", sans-serif;
+}
+
+#contact {
+  font-style: italic;
+}
+
+table {
+  margin: 0 auto;
+  width: 90%;
+}
+
+#header {
+  display: flex;
+  align-items: center;
+}
+
+.skills-container {
+  display: flex;
+}
+
+.skills-child {
+  flex: 1;
+}
+
+.pro-skills-container {
+  display: flex;
+}
+
+.pro-skills-child {
+  flex: 1;
+}
+
+#professional-skills {
+  margin-bottom: 0;
+}
+
+a {
+  background-color: transparent;
+  text-decoration-color: black;
+  color: black;
+}
+
+a:hover {
+  color: #2793c5;
+  text-decoration-color: #2793c5;
+}
+
+body {
+  margin: 2em;
+}
